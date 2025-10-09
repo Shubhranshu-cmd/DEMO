@@ -1,0 +1,13 @@
+AIs
+ChatGPT
+Deepseek
+grok
+Gemini
+Copilot
+Meta
+Ollama
+Perplexity
+Anthropic
+Azure
+Midjourney
+Elevenlabs
